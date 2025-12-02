@@ -29,3 +29,13 @@ a:focus, button:focus, input:focus {
   outline: 2px solid #3498db;
   outline-offset: 2px;
 }
+
+img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px;
+  box-shadow: 0 0 0 5px white, 0 0 0 10px black, 0 0 0 15px gray;
+  padding: 0;
+}
