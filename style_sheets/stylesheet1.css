@@ -5,6 +5,8 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 20px;
+  display: flex;
+  align-items: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,7 +17,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  text-align: left;
   max-width: 70ch;
   margin-bottom: 1em;
 }
